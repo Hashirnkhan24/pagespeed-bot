@@ -1,6 +1,3 @@
-Certainly! Below is a template for your README file:
-
----
 
 # Discord PageSpeed Bot
 
