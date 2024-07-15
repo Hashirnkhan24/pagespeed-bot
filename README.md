@@ -73,6 +73,3 @@ In your Discord server, use the command `!pagespeed <website_url>` to fetch the 
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
----
-
-Feel free to customize the README further to include any additional information or instructions specific to your project.
